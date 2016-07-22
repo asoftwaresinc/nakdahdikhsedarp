@@ -1,7 +1,7 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.pradeshkidhadkan.com" version="1.2.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.pradeshkidhadkan.com" version="1.2.3">
   <name>Pradesh Ki Dhadkan</name>
   <description>Get Latest news from Your City</description>
-  <author href="http://anemaindia.com" email="sales@anemaindia.com">Anema Softwares Inc Team</author>
+  <author href="http://anemaindia.com" email="sales@anemaindia.com">Anema Softwares Inc Team</author> 
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
   <preference name="orientation" value="default"/>
